@@ -5,7 +5,7 @@ deliver the packages to your clients in the shortest time possible. To achieve t
 you must make use of the search algorithms shown in class, with the first task being modeling
 the problem precisely.
 
-##Environment
+## Environment
 The environment is a rectangular grid - given as a list of lists (exact representation can be found
 in the “Input” section). Each point on a grid represents an area. An area can be either passable
 or impassable for the delivery drones. Moreover, there are packages lying in different locations
