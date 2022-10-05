@@ -16,3 +16,5 @@ unsolvable). Moreover, there could be packages that no one needs. One drone can 
 two packages at once.
 The task is done in timestamps (or turns), so the environment changes only after you apply an
 action.
+
+# For other details you can find in every folder a pdf file describe the missions
